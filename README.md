@@ -24,11 +24,11 @@ And, of course, I wanted the whole thing to have a cozy bookshelf-inspired look 
 
 Here are a few glimpses of My Manhwa Shelf! (some of my entries!)
 
-![Home page!](homepage.png) -->
+![Home page!](homepage.jpeg) -->
 
-![My library!](library.png) -->
+![My library!](library.jpeg) -->
 
-![My Notes!](notes.png) -->
+![My Notes!](notes.jpeg) -->
 
 You can also explore the live website here:
 
