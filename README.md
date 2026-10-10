@@ -24,11 +24,11 @@ And, of course, I wanted the whole thing to have a cozy bookshelf-inspired look 
 
 Here are a few glimpses of My Manhwa Shelf! (some of my entries!)
 
-![Home page!](homepage.jpeg) -->
-
-![My library!](library.jpeg) -->
-
-![My Notes!](notes.jpeg) -->
+<p align="center">
+  <img src="homepage.jpeg" alt="Home Page!" width="30%" />
+  <img src="library.jpeg" alt="My Library" width="30%" />
+  <img src="notes.jpeg" alt="My Notes" width="30%" />
+</p>
 
 You can also explore the live website here:
 
