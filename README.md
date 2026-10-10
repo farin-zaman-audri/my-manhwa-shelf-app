@@ -22,13 +22,13 @@ And, of course, I wanted the whole thing to have a cozy bookshelf-inspired look 
 
 ## A Little Peek Inside
 
-Here are a few glimpses of My Manhwa Shelf!
+Here are a few glimpses of My Manhwa Shelf! (some of my entries!)
 
-![Home page!](screenshots/home.png) -->
+![Home page!](homepage.png) -->
 
-![My library!](screenshots/library.png) -->
+![My library!](library.png) -->
 
-![My profile!](screenshots/profile.png) -->
+![My Notes!](notes.png) -->
 
 You can also explore the live website here:
 
